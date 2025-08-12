@@ -8,7 +8,8 @@ print(result)
 
 
 
-print("==multiply all item in list====")
+print("=="
+      "=multiply all item in list====")
 lst=[4,2,1]
 result=1
 for i in lst:

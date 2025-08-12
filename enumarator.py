@@ -11,6 +11,8 @@ for i in enumerate(s):
     print(i)
 
 
+
+
 print("--------------------------------------------")
 
 for ind,val in enumerate(s):

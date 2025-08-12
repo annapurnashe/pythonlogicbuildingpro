@@ -5,7 +5,6 @@ for i in lst:
 
     if i > n :
         n=i
-
 print("largest number is {}".format(n))
 
 
