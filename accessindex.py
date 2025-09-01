@@ -3,6 +3,8 @@ for ind,i in enumerate(lst):
     print(f"Index:{ind},fruit:{i}")
 
 
+    
+
 
 
 
